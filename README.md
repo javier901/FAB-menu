@@ -18,27 +18,6 @@ Just a simple library to use a menu of `FloatingActionButton`s from Design Suppo
 <img src="http://www.jahirfiquitiva.com/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## Show some  :blue_heart:
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/FABsMenu.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/FABsMenu)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/FABsMenu.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/FABsMenu/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/FABsMenu.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/FABsMenu)
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-
----
-
-### Long story
-
-Android Support/Design libraries still doesn't include a FloatingActionButtons menu, and the libraries found here and there are either too cluttered or filled with unnecessary stuff or using custom views that simply don't follow guidelines, which made me avoid them.
-
-I was looking for a new library, and the ones I knew of, have been deprecated/abandoned because the simple FABs are included in the design support library, so I felt the urge of having something that could suffice my needs, and couldn't help but create a library, although is mostly based on [one of those abandoned libraries](https://github.com/jahirfiquitiva/FABsMenu#credits).
-
-This library uses the design library FABs but wraps them inside a ViewGroup to make them look like the FloatingActionButtons menu suggested in Material Design guidelines.
-
-
----
-
 ## Deprecated
 
 Unfortunately, due to my limited time between work+University, I don't really find the way to provide proper support for this library. I really appreciate everyone that has been using it and that might continue using it, but, at least for now, this library is deprecated.
